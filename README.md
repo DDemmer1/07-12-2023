@@ -6,14 +6,15 @@ WS 23 - Wiederholung, Schleifen, Arrays
 1. Degubber und Arrays
    -  erstellt ein ```int Array``` der größe 10.
    -  füllt das Array mit den Zahlen 1-10 (nutzt dafür eine Schleife)
-   -  setzt einen breakpoint vor der Schleife
-   -  Lasst das Programm mit dem Debugger laufen und schaut euch den Wert eurer Läufervariable an 
+   -  setzt einen ```breakpoint``` vor der Schleife
+   -  Lasst das Programm mit dem ```Debugger``` laufen und schaut euch den Wert eurer Läufervariable an
+  
+2. Methoden und Schleifen
+   -  erstellt eine Methode die einen ```int countdown``` als Parameter hat
+   -  lasst eine for-schleife von diesem Wert aus Rückwärts laufen, währenddessen soll die Läufervariable in der Konsole ausgegeben werden
 
+  
 
--------------------------------------------------------
-
-
-2. Die Methode ```irgendeinString.toCharArray()``` gibt als Rückgabewert einen ```String``` als ```char[]``` aus. Versucht eine Methode ```void reverse(String string)``` zu schreiben, die einen ```String``` in umgekehrter Reihenfolge in der Konsole ausgibt. ( Aus "Java" wird "avaJ")
 
 
 
