@@ -3,17 +3,17 @@ WS 23 - Wiederholung, Schleifen, Arrays
 
 ### 📝 Aufgabe:
 
-1. Degubber und Arrays
+1. 🤖 Degubber und Arrays
    -  erstellt ein ```int Array``` der größe 10.
    -  füllt das Array mit den Zahlen 1-10 (nutzt dafür eine Schleife)
    -  setzt einen ```breakpoint``` vor der Schleife
    -  Lasst das Programm mit dem ```Debugger``` laufen und schaut euch den Wert eurer Läufervariable an
   
-2. Methoden und Schleifen
+2. ➰ Methoden und Schleifen
    -  erstellt eine Methode die einen ```int countdown``` als Parameter hat
    -  lasst eine for-schleife von diesem Wert aus Rückwärts laufen, währenddessen soll die Läufervariable in der Konsole ausgegeben werden
 
-2. Methoden, Rückgabewerte, Schleifen und Arrays
+2. 🤖Methoden, Rückgabewerte, ➰Schleifen und 📜Arrays
    -  erstellt die Methode ```static int search(String[] array, String toFind)```
    -  die Methode soll den ```String toFind``` in dem ```String[] array``` suchen und über den Rückgabewert den Index des ```String toFind``` zurückgeben
    -  wenn keine Übereinstimmung gefunden wurde soll -1 zurückgegeben werden
