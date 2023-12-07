@@ -3,13 +3,11 @@ WS 23 - Wiederholung, Schleifen, Arrays
 
 ### 📝 Aufgabe:
 
-1. Erstellt ein ```int Array``` der größe 150. Füllt jeden Wert im Array mit dem Wert ```42``` 
-
-⚠️ Advanced: Füllt jeden Wert des Arrays zufällig mit 1 oder 0 
- - ℹ️: ```Math.random()``` gibt einen zufälligen ```double``` Wert zurück
- - ```Math.round()``` kann einen float oder ```double``` runden gibt jedoch einen ```long``` zuück
- - mit ```(int)``` kann man Datentypen zu einem Integer casten
- 
+1. Degubber und Arrays
+   -  erstellt ein ```int Array``` der größe 10.
+   -  füllt das Array mit den Zahlen 1-10 (nutzt dafür eine Schleife)
+   -  setzt einen breakpoint vor der Schleife
+   -  Lasst das Programm mit dem Debugger laufen und schaut euch den Wert eurer Läufervariable an 
 
 
 -------------------------------------------------------
